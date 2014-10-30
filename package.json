@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzzCoffee",
+  "version": "1.0.0",
+  "description": "coffeScript",
+  "main": "fizzbuzz.coffe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Portabales",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
